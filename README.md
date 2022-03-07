@@ -4,7 +4,7 @@ Github Status
 ![](https://github-readme-stats.vercel.app/api?username=ryuseifujisaki&count_private=true&show_icons=true&theme=dracula)
 
 Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?ryuseifujisaki=hoge&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuseifujisaki&layout=compact&theme=dracula)
 
 <!--
 **ryuseifujisaki/ryuseifujisaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
