@@ -1,9 +1,7 @@
 ### ryuseifujisaki
 
-Github Status
 ![](https://github-readme-stats.vercel.app/api?username=ryuseifujisaki&count_private=true&show_icons=true&theme=dracula)
 
-Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuseifujisaki&layout=compact&theme=dracula)
 
 <!--
